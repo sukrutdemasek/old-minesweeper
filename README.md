@@ -1,1 +1,1 @@
-# old-minesweeper
+Моя стара гра Minesweeper, зроблена ще у 2023 році!
